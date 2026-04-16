@@ -11,7 +11,7 @@ This file describes the structure of this repository and provides some links tha
 
 Additionally, we aim to make you familiar with the [Responsible Disclosure](https://en.wikipedia.org/wiki/Responsible_disclosure) approach.
 
-In today's workshop, when you find a bug or vulnerability in an app or tool, report it to us by emailing Dr. Adwait Nadkarni and me only. You can discuss your findings with your team members only during this workshop.
+In today's workshop, when you find a bug or vulnerability in an app or tool, report it to us by following the instructions of Dr. Adwait Nadkarni. You can discuss your findings with your team members only during this workshop.
 
 Furthermore, you are required to provide additional details, such as
 
