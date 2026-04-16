@@ -112,7 +112,15 @@ For mutant-based misuse, a tool can either (a) report it (true positive) or (b) 
 Moreover, a tool can also report/not report misuses already existing in the code base, i.e., before we perform mutation.
 
 - If a tool does not report a misuse, whether preexisting or introduced via mutation, it may or may not be a flaw of the tool!
-- if you are wondering why, More about that in the following section!
+- if you are wondering why, more about that in the following section!
+
+Crypto API misuses within this workshop will focus on:
+
+- Cipher
+- SSL
+- IV
+- Random
+
 
 📘 **Note about Tool Logs:** Tools produce reports in various formats. This is because tools are developed independently, and they came up with their own formats based on what worked best for themselves. 
 Some tools offer reports in multiple formats, such as web pages and PDFs; others only provide text reports. We only share text-based reports here in this workshop for simplicity and faster searchability. 
