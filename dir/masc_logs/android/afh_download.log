@@ -1,0 +1,309 @@
+In file: ApplicationTest.java
+Input operator: REACHABILITY
+leak-0: ApplicationTest.ApplicationTest
+In file: MD5.java
+Input operator: REACHABILITY
+leak-1: MD5.checkMD5
+leak-2: MD5.checkMD5
+leak-3: MD5.checkMD5
+leak-4: MD5.calculateMD5
+leak-5: MD5.calculateMD5
+leak-6: MD5.calculateMD5
+leak-7: MD5.calculateMD5
+leak-8: MD5.calculateMD5
+leak-9: MD5.calculateMD5
+leak-10: MD5.calculateMD5
+leak-11: MD5.calculateMD5
+leak-12: MD5.calculateMD5
+leak-13: MD5.calculateMD5
+leak-14: MD5.calculateMD5
+In file: MyCustomAdapter.java
+Input operator: REACHABILITY
+leak-15: MyCustomAdapter.MyCustomAdapter
+leak-16: MyCustomAdapter.getView
+leak-17: MyCustomAdapter.getView
+leak-18: MyCustomAdapter.getView
+leak-19: MyCustomAdapter.getView
+leak-20: MyCustomAdapter.getView
+leak-21: MyCustomAdapter.getView
+leak-22: MyCustomAdapter.getView
+leak-23: MyCustomAdapter.getView
+leak-24: MyCustomAdapter.getView
+In file: EasyPermissions.java
+Input operator: REACHABILITY
+leak-25: EasyPermissions.hasPermissions
+leak-26: EasyPermissions.hasPermissions
+leak-27: EasyPermissions.hasPermissions
+leak-28: EasyPermissions.requestPermissions
+leak-29: EasyPermissions.requestPermissions
+leak-30: EasyPermissions.requestPermissions
+leak-31: EasyPermissions.requestPermissions
+leak-32: 1.onClick
+leak-33: 1.onClick
+leak-34: EasyPermissions.requestPermissions
+leak-35: EasyPermissions.onRequestPermissionsResult
+leak-36: EasyPermissions.onRequestPermissionsResult
+leak-37: EasyPermissions.onRequestPermissionsResult
+leak-38: EasyPermissions.onRequestPermissionsResult
+leak-39: EasyPermissions.onRequestPermissionsResult
+leak-40: EasyPermissions.onRequestPermissionsResult
+leak-41: EasyPermissions.onRequestPermissionsResult
+leak-42: EasyPermissions.shouldShowRequestPermissionRationale
+leak-43: EasyPermissions.shouldShowRequestPermissionRationale
+leak-44: EasyPermissions.shouldShowRequestPermissionRationale
+leak-45: EasyPermissions.shouldShowRequestPermissionRationale
+leak-46: EasyPermissions.executePermissionsRequest
+leak-47: EasyPermissions.executePermissionsRequest
+leak-48: EasyPermissions.executePermissionsRequest
+leak-49: EasyPermissions.getActivity
+leak-50: EasyPermissions.getActivity
+leak-51: EasyPermissions.getActivity
+leak-52: EasyPermissions.getActivity
+leak-53: EasyPermissions.runAnnotatedMethods
+leak-54: EasyPermissions.runAnnotatedMethods
+leak-55: EasyPermissions.runAnnotatedMethods
+leak-56: EasyPermissions.runAnnotatedMethods
+leak-57: EasyPermissions.runAnnotatedMethods
+leak-58: EasyPermissions.runAnnotatedMethods
+leak-59: EasyPermissions.runAnnotatedMethods
+leak-60: EasyPermissions.runAnnotatedMethods
+leak-61: EasyPermissions.runAnnotatedMethods
+leak-62: EasyPermissions.checkCallingObjectSuitability
+leak-63: EasyPermissions.checkCallingObjectSuitability
+leak-64: EasyPermissions.checkCallingObjectSuitability
+In file: AfterPermissionGranted.java
+Input operator: REACHABILITY
+In file: SwipeDismissTouchListener.java
+Input operator: REACHABILITY
+leak-65: SwipeDismissTouchListener.SwipeDismissTouchListener
+leak-66: SwipeDismissTouchListener.onTouch
+leak-67: SwipeDismissTouchListener.onTouch
+leak-68: SwipeDismissTouchListener.onTouch
+leak-69: SwipeDismissTouchListener.onTouch
+leak-70: SwipeDismissTouchListener.onTouch
+leak-71: SwipeDismissTouchListener.onTouch
+leak-72: SwipeDismissTouchListener.onTouch
+leak-73: SwipeDismissTouchListener.onTouch
+leak-74: SwipeDismissTouchListener.onTouch
+leak-75: SwipeDismissTouchListener.onTouch
+leak-76: 1.onAnimationEnd
+leak-77: SwipeDismissTouchListener.onTouch
+leak-78: SwipeDismissTouchListener.onTouch
+leak-79: SwipeDismissTouchListener.onTouch
+leak-80: SwipeDismissTouchListener.onTouch
+leak-81: SwipeDismissTouchListener.onTouch
+leak-82: SwipeDismissTouchListener.onTouch
+leak-83: SwipeDismissTouchListener.onTouch
+leak-84: SwipeDismissTouchListener.onTouch
+leak-85: SwipeDismissTouchListener.onTouch
+leak-86: SwipeDismissTouchListener.onTouch
+leak-87: SwipeDismissTouchListener.performDismiss
+leak-88: 1.onAnimationEnd
+leak-89: 1.onAnimationUpdate
+In file: AlarmReceiver.java
+Input operator: REACHABILITY
+leak-90: AlarmReceiver.onReceive
+leak-91: AlarmReceiver.buildPath
+In file: BootReceiver.java
+Input operator: REACHABILITY
+leak-92: BootReceiver.onReceive
+leak-93: BootReceiver.onReceive
+leak-94: BootReceiver.onReceive
+leak-95: BootReceiver.setRecurringAlarm
+In file: SwipeDismissListViewTouchListener.java
+Input operator: REACHABILITY
+leak-96: SwipeDismissListViewTouchListener.SwipeDismissListViewTouchListener
+leak-97: SwipeDismissListViewTouchListener.setEnabled
+leak-98: SwipeDismissListViewTouchListener.makeScrollListener
+leak-99: 1.onScrollStateChanged
+leak-100: 1.onScroll
+leak-101: SwipeDismissListViewTouchListener.onTouch
+leak-102: SwipeDismissListViewTouchListener.onTouch
+leak-103: SwipeDismissListViewTouchListener.onTouch
+leak-104: SwipeDismissListViewTouchListener.onTouch
+leak-105: SwipeDismissListViewTouchListener.onTouch
+leak-106: SwipeDismissListViewTouchListener.onTouch
+leak-107: SwipeDismissListViewTouchListener.onTouch
+leak-108: SwipeDismissListViewTouchListener.onTouch
+leak-109: SwipeDismissListViewTouchListener.onTouch
+leak-110: SwipeDismissListViewTouchListener.onTouch
+leak-111: SwipeDismissListViewTouchListener.onTouch
+leak-112: SwipeDismissListViewTouchListener.onTouch
+leak-113: SwipeDismissListViewTouchListener.onTouch
+leak-114: SwipeDismissListViewTouchListener.onTouch
+leak-115: SwipeDismissListViewTouchListener.onTouch
+leak-116: SwipeDismissListViewTouchListener.onTouch
+leak-117: SwipeDismissListViewTouchListener.onTouch
+leak-118: SwipeDismissListViewTouchListener.onTouch
+leak-119: 1.onAnimationEnd
+leak-120: SwipeDismissListViewTouchListener.onTouch
+leak-121: SwipeDismissListViewTouchListener.onTouch
+leak-122: SwipeDismissListViewTouchListener.onTouch
+leak-123: SwipeDismissListViewTouchListener.onTouch
+leak-124: SwipeDismissListViewTouchListener.onTouch
+leak-125: SwipeDismissListViewTouchListener.onTouch
+leak-126: SwipeDismissListViewTouchListener.onTouch
+leak-127: PendingDismissData.PendingDismissData
+leak-128: PendingDismissData.compareTo
+leak-129: SwipeDismissListViewTouchListener.performDismiss
+leak-130: 1.onAnimationEnd
+leak-131: 1.onAnimationEnd
+leak-132: 1.onAnimationEnd
+leak-133: 1.onAnimationEnd
+leak-134: 1.onAnimationUpdate
+In file: MainActivity.java
+Input operator: REACHABILITY
+leak-135: MainActivity.onCreate
+leak-136: MainActivity.onCreate
+leak-137: MainActivity.onCreate
+leak-138: MainActivity.onActivityResult
+leak-139: MainActivity.setAlarm
+leak-140: MainActivity.setAlarm
+leak-141: MainActivity.setAlarm
+leak-142: MainActivity.getPref
+leak-143: MainActivity.setRecurringAlarm
+leak-144: MainActivity.CancelAlarm
+leak-145: MainActivity.run
+leak-146: MainActivity.buildPath
+leak-147: MainActivity.onCreateOptionsMenu
+leak-148: MainActivity.onOptionsItemSelected
+leak-149: MainActivity.onOptionsItemSelected
+leak-150: MainActivity.onOptionsItemSelected
+leak-151: MainActivity.onOptionsItemSelected
+leak-152: 1.getCommandsToExecute
+leak-153: MainActivity.onRequestPermissionsResult
+leak-154: MainActivity.onPermissionsGranted
+leak-155: MainActivity.onPermissionsDenied
+leak-156: MainActivity.getBaseUrl
+leak-157: MainActivity.readFile
+leak-158: MainActivity.readFile
+leak-159: MainActivity.readFile
+leak-160: MainActivity.readFile
+leak-161: MainActivity.writeFile
+leak-162: MainActivity.writeFile
+leak-163: MainActivity.writeFile
+leak-164: MainActivity.setList
+leak-165: MainActivity.setList
+leak-166: MainActivity.setList
+leak-167: MainActivity.setList
+leak-168: MainActivity.setList
+leak-169: MainActivity.setList
+leak-170: MainActivity.setList
+leak-171: MainActivity.setList
+leak-172: MainActivity.setList
+leak-173: MainActivity.setList
+leak-174: MainActivity.setList
+leak-175: MainActivity.setList
+leak-176: MainActivity.setList
+leak-177: MainActivity.setList
+leak-178: MainActivity.setList
+leak-179: MainActivity.setList
+leak-180: 1.canDismiss
+leak-181: 1.canDismiss
+leak-182: 1.onDismiss
+leak-183: 1.onDismiss
+leak-184: 1.onClick
+leak-185: 1.onClick
+leak-186: 1.onClick
+leak-187: 1.onClick
+leak-188: 1.onItemClick
+leak-189: 1.onItemClick
+leak-190: 1.onItemClick
+leak-191: MainActivity.message_dialog_yes_no
+leak-192: 1.onClick
+leak-193: ExecuteAsRootBase.execute
+leak-194: ExecuteAsRootBase.execute
+leak-195: ExecuteAsRootBase.execute
+leak-196: ExecuteAsRootBase.execute
+leak-197: ExecuteAsRootBase.execute
+leak-198: ExecuteAsRootBase.execute
+leak-199: ExecuteAsRootBase.execute
+leak-200: ExecuteAsRootBase.execute
+leak-201: ExecuteAsRootBase.execute
+leak-202: ExecuteAsRootBase.execute
+leak-203: ExecuteAsRootBase.execute
+leak-204: MainActivity.onResume
+leak-205: MainActivity.onPause
+In file: DirectoryPicker.java
+Input operator: REACHABILITY
+leak-206: DirectoryPicker.onCreate
+leak-207: DirectoryPicker.onCreate
+leak-208: DirectoryPicker.onCreate
+leak-209: DirectoryPicker.onCreate
+leak-210: 1.onClick
+leak-211: DirectoryPicker.onCreate
+leak-212: 1.onItemClick
+leak-213: DirectoryPicker.onActivityResult
+leak-214: DirectoryPicker.onActivityResult
+leak-215: DirectoryPicker.returnDir
+leak-216: DirectoryPicker.returnDir
+leak-217: DirectoryPicker.filter
+leak-218: DirectoryPicker.filter
+leak-219: DirectoryPicker.names
+leak-220: DirectoryPicker.names
+In file: LogUtil.java
+Input operator: REACHABILITY
+leak-221: LogUtil.makeLogTag
+In file: SetPreferenceActivity.java
+Input operator: REACHABILITY
+leak-222: SetPreferenceActivity.onCreate
+In file: Download.java
+Input operator: REACHABILITY
+leak-223: Download.onStartCommand
+leak-224: Download.onStartCommand
+leak-225: Download.onStartCommand
+leak-226: Download.onStartCommand
+leak-227: Download.onBind
+leak-228: ParseURL.doInBackground
+leak-229: ParseURL.onPostExecute
+leak-230: ParseURL.onPostExecute
+leak-231: Download.parseUrl
+leak-232: Download.parseUrl
+leak-233: Download.parseUrl
+leak-234: Download.parseUrl
+leak-235: Download.parseUrl
+leak-236: Download.parseUrl
+leak-237: Download.getFirstUrl
+leak-238: Download.getFirstUrl
+leak-239: Download.getBaseUrl
+leak-240: Download.getMD5
+leak-241: Download.getMD5
+leak-242: Download.getMD5
+leak-243: Download.getMD5
+leak-244: Download.getDLUrl
+leak-245: Download.getDLUrl
+leak-246: Download.getDLUrl
+leak-247: Download.getDLUrl
+leak-248: Download.getDLUrl
+leak-249: dlMd5.doInBackground
+leak-250: dlMd5.doInBackground
+leak-251: dlMd5.doInBackground
+leak-252: downloadFirstThread.doInBackground
+leak-253: downloadFirstThread.onPostExecute
+leak-254: ParseURLDownload.doInBackground
+leak-255: ParseURLDownload.onPostExecute
+leak-256: ParseURLDownload.onPostExecute
+leak-257: Download.download
+leak-258: Download.download
+leak-259: Download.download
+leak-260: Download.download
+leak-261: Download.download
+leak-262: Download.download
+leak-263: Download.download
+leak-264: Download.download
+leak-265: Download.download
+leak-266: Download.download
+leak-267: Download.download
+leak-268: Download.download
+leak-269: Download.download
+leak-270: Download.download
+leak-271: Download.download
+leak-272: Download.download
+In file: MainActivityFragment.java
+Input operator: REACHABILITY
+leak-273: MainActivityFragment.MainActivityFragment
+leak-274: MainActivityFragment.onCreateView
+In file: PrefsFragment.java
+Input operator: REACHABILITY
+leak-275: PrefsFragment.onCreate
+leak-276: 1.onPreferenceClick

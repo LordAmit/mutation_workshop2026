@@ -1,0 +1,24 @@
+In file: MainActivity.java
+Input operator: REACHABILITY
+leak-0: MainActivity.onCreate
+leak-1: MainActivity.onCreate
+leak-2: MainActivity.onCreate
+leak-3: MainActivity.onCreate
+leak-4: MainActivity.onCreate
+leak-5: MainActivity.onCreate
+leak-6: MainActivity.onCreate
+leak-7: MainActivity.onCreate
+leak-8: 1.onTouch
+leak-9: 1.onTouch
+leak-10: 1.onTouch
+leak-11: MainActivity.onSaveInstanceState
+leak-12: MainActivity.onCreateOptionsMenu
+leak-13: MainActivity.saveFullScreen
+leak-14: MainActivity.isFullScreen
+leak-15: MainActivity.applyFullScreen
+leak-16: MainActivity.applyFullScreen
+leak-17: MainActivity.applyFullScreen
+leak-18: MainActivity.onConfigurationChanged
+leak-19: MainActivity.onBackPressed
+leak-20: MainActivity.onBackPressed
+leak-21: MainActivity.onBackPressed
