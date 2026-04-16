@@ -144,7 +144,10 @@ Found a flaw in a tool? Great!
 You must include the following in your report:
 
 - Description of the Issue you found in the tool
-- Locations related to the Issue, such as related logs, - location in source code, application name, mutant - number, etc.
+- Locations related to the Issue, such as related logs,
+    - location in source code,
+    - application name,
+    - mutant - number, etc.
 - Reasoning about why you consider this an issue
 - Impact in terms of compromising the security of an application
 
