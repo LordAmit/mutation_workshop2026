@@ -22,7 +22,7 @@ Furthermore, you are required to provide additional details, such as
 
 ## Package Description 🗂️
 
-[In this package](https://github.com/LordAmit/mutation_workshop2024/blob/main/workshop_masc.zip), you will find logs from static analysis-based crypto API misuse detection tools, mutation logs, and source codes for applications we mutated. The organization is as follows:
+[In this package](https://github.com/LordAmit/mutation_workshop2026/blob/main/workshop_masc.zip), you will find logs from static analysis-based crypto API misuse detection tools, mutation logs, and source codes for applications we mutated. The organization is as follows:
 
 ```
 |-- apps
@@ -51,7 +51,7 @@ MASC stands for Mutation based Analysis of Static Crypto-misuse detectors (Not p
 
 The lines in the relevant log files start with the word `leak`.
 
-An example of such a log file is [afh_download.log](https://github.com/LordAmit/mutation_workshop2024/blob/main/dir/masc_logs/android/afh_download.log), where the output looks like the following:
+An example of such a log file is [afh_download.log](https://github.com/LordAmit/mutation_workshop2026/blob/main/dir/masc_logs/android/afh_download.log), where the output looks like the following:
 
 ```
 In file: ApplicationTest.java
@@ -68,7 +68,7 @@ leak-3: MD5.checkMD5
 
 In relevant logs, the lines start with `Mutant`. Selective mutation may introduce multiple misuse instances.
 
-An example of a Selective mutation log is [carreport_mutants.log](https://github.com/LordAmit/mutation_workshop2024/blob/main/dir/masc_logs/android/carreport_mutants.log) file, which contains something like the following:
+An example of a Selective mutation log is [carreport_mutants.log](https://github.com/LordAmit/mutation_workshop2026/blob/main/dir/masc_logs/android/carreport_mutants.log) file, which contains something like the following:
 
 ```
 Mutant 1: carreport/util/webdav/CertificateHelper.java; TrustManagerInstace in line 94
